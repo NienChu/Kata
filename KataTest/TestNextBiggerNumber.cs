@@ -5,7 +5,7 @@ using Kata;
 namespace KataTest
 {
     [TestClass]
-    public class UnitTest1
+    public class TestNextBiggerNumber
     {
         [TestMethod]
         public void TestShouldReturn_Negative1()
@@ -30,38 +30,6 @@ namespace KataTest
         {
             NextBiggerNumberTest(3941, 4139);
         }
-
-        [TestMethod]
-        public void TestShouldReturn_kata1()
-        {
-            NextBiggerNumberTest(12, 21);
-        }
-
-        [TestMethod]
-        public void TestShouldReturn_kata2()
-        {
-            NextBiggerNumberTest(513, 531);
-        }
-
-        [TestMethod]
-        public void TestShouldReturn_kata3()
-        {
-            NextBiggerNumberTest(2017, 2071);
-        }
-
-        [TestMethod]
-        public void TestShouldReturn_kata4()
-        {
-            NextBiggerNumberTest(414, 441);
-        }
-
-        [TestMethod]
-        public void TestShouldReturn_kata5()
-        {
-            NextBiggerNumberTest(144, 414);
-        }
-
-
 
         public void NextBiggerNumberTest(long input, long expect)
         {
