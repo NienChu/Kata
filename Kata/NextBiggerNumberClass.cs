@@ -4,7 +4,7 @@ namespace Kata
 {
     public class NextBiggerNumberClass
     {
-        public  long NextBiggerNumber(long n)
+        public long NextBiggerNumber(long n)
         {
             string number = n.ToString();//parse to string
             char[] charArray = number.ToCharArray();

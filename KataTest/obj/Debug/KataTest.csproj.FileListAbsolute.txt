@@ -1,0 +1,16 @@
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\KataTest.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\KataTest.pdb
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Kata.exe
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Kata.pdb
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Kata.exe.config
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\meilingher\source\repos\Kata\KataTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\meilingher\source\repos\Kata\KataTest\obj\Debug\KataTest.csprojResolveAssemblyReference.cache
+C:\Users\meilingher\source\repos\Kata\KataTest\obj\Debug\KataTest.csproj.CoreCompileInputs.cache
+C:\Users\meilingher\source\repos\Kata\KataTest\obj\Debug\KataTest.dll
+C:\Users\meilingher\source\repos\Kata\KataTest\obj\Debug\KataTest.pdb
